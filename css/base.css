@@ -4,3 +4,7 @@
 .section-wrapper {
   margin: 0 auto;
   width: 900px; }
+
+/* typography */
+h1 {
+  font-family: "Trade Winds", cursive; }

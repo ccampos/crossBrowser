@@ -1,3 +1,9 @@
+$fontFamilyBase: "Noto Sans";
+
+.content {
+    font-family: $fontFamilyBase, sans-serif;
+}
+
 .section-wrapper {
     margin: 0 auto;
     width: 900px;
